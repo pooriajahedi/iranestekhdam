@@ -1,0 +1,9 @@
+[22-May-2022 20:53:50 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[31-May-2022 18:30:16 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-May-2022 18:30:23 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-May-2022 18:30:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-May-2022 19:30:48 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-May-2022 19:32:11 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-May-2022 19:36:58 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-May-2022 19:38:43 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
+[31-May-2022 19:39:21 UTC] PHP Warning:  Module 'redis' already loaded in Unknown on line 0
